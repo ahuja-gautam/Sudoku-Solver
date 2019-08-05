@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Leetcode Sudoku Solver in C++ 16ms
+Leetcode Sudoku Solver in C++ 12ms
